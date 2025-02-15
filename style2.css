@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(247, 240, 230);
+    color: grey;
+}
+.heading{
+    margin-left: 45vw;
+    font-size: 35px;
+
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr  1fr;
+}
